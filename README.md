@@ -1,0 +1,1 @@
+# plugins-canvas-image-resize
