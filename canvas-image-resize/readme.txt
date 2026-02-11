@@ -3,7 +3,7 @@ Contributors: sippsolutions
 Donate link: https://www.paypal.me/sippert
 Tags: image, upload, processing, canvas
 Requires at least: 3.3.2
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
